@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjetFinalTest</string>
+    <string name="command_button">internet</string>
+    <string name="scan_button">lancer le scann</string>
+    <string name="scan_ended">scan termnine</string>
+    <string name="trying_connection_to">connection à %s</string>
+    <string name="connected_to">connect à %s</string>
+    <string name="uuid_not_found">uuid not found</string>
+    <string name="not_connected">not connected</string>
+    <string name="notification_ble">notification_ble</string>
+    <string name="d_connecter">Disconnecter</string>
+    <string name="scanner">Scanner</string>
+    <string name="todo">TODO</string>
+    <string name="connect_xxx">connect à XXX</string>
+    <string name="toggle_led">TOGGLE led</string>
+</resources>
