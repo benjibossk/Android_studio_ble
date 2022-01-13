@@ -1,4 +1,4 @@
-# Android_studio_ble par ⚠️ Clément GRANSEIGNE & Benjamin DUPONT ⚠️
+#  ⚠️ Clément GRANSEIGNE & Benjamin DUPONT ⚠️
 
 
 +  📱 app android dispo dans la release 📱
