@@ -1,5 +1,5 @@
 # Android_studio_ble
-app android
+app android par Clément GRANSEIGNE & Benjamin DUPONT
 
 upload manuel du projet car android studio n'arrive pas a faire le lien avec le git intégré 
 
